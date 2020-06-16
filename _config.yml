@@ -22,7 +22,6 @@ baseurl: "/hoiko-blog" # the subpath of your site, e.g. /blog/
 url: "https://hoiko-takahashi.github.io/hoiko-blog" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
-permalink: "/:year/:month/:day/:title"
 
 # Build settings
 markdown: kramdown
