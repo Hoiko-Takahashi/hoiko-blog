@@ -6,14 +6,6 @@ categories: Diary
 tags: Japanese
 cover:  "/assets/sunflower.jpg"
 ---
-{% comment %}
-cover:  "/assets/drop-of-water.jpg"
-cover:  "/assets/sunflower.jpg"
-cover:  "/assets/tulips.jpg"
-cover:  "/assets/water.jpg"
-cover:  "/assets/instacode.png"
-{% endcomment %}
-
 # GitHubでブログ始めます
 　「GitHubでブログをやる」が目的であるため、書きたいことはありません。昔から、インストールが好きなんです。
  話題のOSやら、ディストリビューションを導入して環境を構築したら、もう満足。その環境で何かがしたいわけではありません。
