@@ -4,7 +4,7 @@ date: 2020-06-16
 layout: post
 categories: Diary
 tags: Japanese
-cover:  "/assets/sunflower.jpg"
+cover:  "/assets/salad-2487775_1920.jpg"
 ---
 # GitHubでブログ始めます
 　「GitHubでブログをやる」が目的であるため、書きたいことはありません。昔から、インストールが好きなんです。

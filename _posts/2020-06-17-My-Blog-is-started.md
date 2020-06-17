@@ -3,14 +3,13 @@ title:  "GitHubでのブログ構築。苦労したひとつのこと"
 date: 2020-06-17
 layout: post
 categories: Diary
-cover:  "/assets/tulips.jpg"
+cover:  "/assets/tomatoes-1561565_1920.jpg"
 ---
 {% comment %}
-cover:  "/assets/tulips.jpg"
-cover:  "/assets/water.jpg"
-cover:  "/assets/instacode.png"
-cover:  "/assets/sunflower.jpg"
-cover:  "/assets/drop-of-water.jpg"
+cover:  "/assets/tomatoes-1561565_1920.jpg"
+cover:  "/assets/salad-2487775_1920.jpg"
+cover:  "/assets/tomatoes-5356_1920.jpg"
+cover:  "/assets/tomatoes-1280859_1280.jpg"
 {% endcomment %}
 
 　GitHubPagesでブログを開設をすることができました。苦労したことをメモしておきます。
