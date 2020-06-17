@@ -31,6 +31,6 @@ cover:  "/assets/instacode.png"
 
 　のように、-jekyll-paginate-v2を-jekyll-pagenateに。さらに、pagenate（表示する記事数）の指定を加えました。これで、うまくいきましたー。やっほー。
  
- # 記事内にソースを入れる方法
+ # どうやって記事にソース書くの？
   　「[GitHub Gist](https://gist.github.com/)」を使うといい感じです！　詳細は「[HTMLやCSSのソースコードをそのままページに貼り付ける方法](https://fukafuka295.jp/source-code-haritsuke/)」参照。
 
