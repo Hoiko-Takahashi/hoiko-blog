@@ -6,6 +6,7 @@ plugins:
   - jekyll-paginate-v2
 exclude:
   - "/vendor/"
+paginate: 5
 
 # Site settings
 title: Hoiko meets Jekyll
