@@ -3,14 +3,14 @@ title:  "GitHubでのブログ構築。苦労したひとつのこと"
 date: 2020-06-17
 layout: post
 categories: Diary
-cover:  "/assets/drop-of-water.jpg"
+cover:  "/assets/sunflower.jpg"
 ---
 {% comment %}
-cover:  "/assets/drop-of-water.jpg"
 cover:  "/assets/sunflower.jpg"
 cover:  "/assets/tulips.jpg"
 cover:  "/assets/water.jpg"
 cover:  "/assets/instacode.png"
+cover:  "/assets/drop-of-water.jpg"
 {% endcomment %}
 
 　GitHubPagesでブログを開設をすることができました。苦労したことをメモしておきます。
@@ -30,7 +30,7 @@ cover:  "/assets/instacode.png"
 <script src="https://gist.github.com/Hoiko-Takahashi/b57e0376f4b69b68901cc2dafa6961ae.js"></script>
 
 　のように、-jekyll-paginate-v2を-jekyll-pagenateに。さらに、pagenate（表示する記事数）の指定を加えました。これで、うまくいきましたー。やっほー。
- 
+
  # どうやって記事にソース書くの？
   　「[GitHub Gist](https://gist.github.com/)」を使うといい感じです！　詳細は「[HTMLやCSSのソースコードをそのままページに貼り付ける方法](https://fukafuka295.jp/source-code-haritsuke/)」参照。
 
