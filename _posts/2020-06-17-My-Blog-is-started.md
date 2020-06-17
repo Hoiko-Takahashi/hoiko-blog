@@ -24,7 +24,7 @@ cover:  "/assets/tomatoes-1280859_1280.jpg"
 # テーマを変更したら、トップに記事が出ない
 　ローカル環境では問題なかったのですが、GitHubにPushしたところ、トップページに記事が表示されない問題が発生しました。テーマで使用しているプラグインとGitHubとの相性が悪いようです。
 *  [Centrariumのjekyll-archives問題を回避する](https://haltaro.github.io/2018/06/15/jekyll-archives)<br/>
-　まずは、“_config.yml”から、上記の記事とまったく同じ箇所、jekyll-archives関連をコメントアウトしました。それでも記事は表示されなかったので、
+　まずは、“_config.yml”から、上記の記事とまったく同じ箇所、jekyll-archives関連をコメントアウトしました。それでも表示されなかったので、
 
 <script src="https://gist.github.com/Hoiko-Takahashi/b57e0376f4b69b68901cc2dafa6961ae.js"></script>
 
