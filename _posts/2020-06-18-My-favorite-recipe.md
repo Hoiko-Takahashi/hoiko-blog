@@ -26,7 +26,7 @@ cover:  "/assets/olive-oil-1412361_1920"
 
 # 汁なし担々麺
 * [汁なし担々麺](https://park.ajinomoto.co.jp/recipe/card/705569/)  
-* [汁なし担々麺の甜麺醤]（https://tomatoman.jp/?p=8251）
+* [汁なし担々麺の甜麺醤](https://tomatoman.jp/?p=8251)  
 
 # 肉料理
 ## ハンバーグ
