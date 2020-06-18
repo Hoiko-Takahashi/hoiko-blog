@@ -3,11 +3,11 @@
 plugins:
 #  - jekyll-archives # Sorry, not GitHub pages friendly!
   - jekyll-sitemap
-  - jekyll-paginate-v2
-#  - jekyll-paginate
+#  - jekyll-paginate-v2
+  - jekyll-paginate
 exclude:
   - "/vendor/"
-#paginate: 5
+paginate: 5
 
 # Site settings
 title: Hoiko meets Jekyll
