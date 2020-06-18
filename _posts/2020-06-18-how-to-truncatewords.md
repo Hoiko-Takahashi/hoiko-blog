@@ -39,13 +39,6 @@ cover:  "/assets/olive-oil-1412361_1920"
 
 <script src="https://gist.github.com/Hoiko-Takahashi/9eefb8a5e2157b8c93f58ee709bb2364.js"></script>
 
-{% highlight <html> %}
-    <section class="post-excerpt" itemprop="description">
-      <!-- p>{{ post.content | strip_html | truncatewords: 50 }}</p -->
-      <p>{{ post.content | strip_html | truncate:200 }}</p>
-    </section>
-{% endhighlight %}
-
 {% comment %}
 「[GitHub Gist](https://gist.github.com/)」
 {% endcomment %}
