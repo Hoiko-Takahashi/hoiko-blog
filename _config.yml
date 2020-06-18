@@ -9,6 +9,7 @@ exclude:
   - "/vendor/"
 paginate: 5
 
+
 # Site settings
 title: Hoiko meets Jekyll
 subtitle: "I write anything.I have no plan. but I'm excited."
