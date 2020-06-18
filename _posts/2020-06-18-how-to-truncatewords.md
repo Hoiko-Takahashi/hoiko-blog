@@ -37,9 +37,7 @@ cover:  "/assets/olive-oil-1412361_1920"
 # index.htmlを書き換える
 　26行目あたりにある「 truncatewords: 50 」が犯人です。「文字列を指定語数（この場合50文字）以下になるように切り詰める」命令だそうで、これが英語以外ではうまく動作しません。そこで、「truncate」に置き換えます。何が違うのかわかりません。どうして200なのかもわかりません。ですが、これを書き換えたら、思った通りの表示になりました。
 
-<script src="https://gist.github.com/Hoiko-Takahashi/9eefb8a5e2157b8c93f58ee709bb2364.js"></script>
-
-{% highlight html %}    
+{% highlight Handlebars %}    
     <section class="post-excerpt" itemprop="description">
       <!-- p>{{ post.content | strip_html | truncatewords: 50 }}</p -->
       <p>{{ post.content | strip_html | truncate:200 }}</p>
