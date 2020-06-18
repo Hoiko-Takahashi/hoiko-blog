@@ -1,5 +1,5 @@
 ---
-title:  "我が家で定番化してるレシピまとめ"
+title:  "お気に入りのレシピまとめ"
 date: 2020-06-18
 layout: post
 categories: Recipe
