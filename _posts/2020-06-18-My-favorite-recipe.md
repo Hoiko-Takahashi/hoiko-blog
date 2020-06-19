@@ -70,7 +70,8 @@ cover:  "/assets/olive-oil-1412361_1920"
 
 # パン・ケーキ
 * [【ダッチオーブンレシピ】ホワイトチョコとベリーのスコーン](https://tg-uchi.jp/topics/3537)  
-* [なめらかプリン Creme Caramel ｜小麦粉だいすき](https://www.nicovideo.jp/watch/sm36503451)  
+* [なめらかプリン Creme Caramel ｜小麦粉だいすき](https://www.nicovideo.jp/watch/sm36503451)
+* [スタバ風チョコスコーン☆簡単少量レシピ](https://cookpad.com/recipe/1791602)
 
 {% comment %}
 「[GitHub Gist](https://gist.github.com/)」
