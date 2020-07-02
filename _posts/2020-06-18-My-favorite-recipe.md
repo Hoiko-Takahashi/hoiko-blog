@@ -61,6 +61,17 @@ cover:  "/assets/olive-oil-1412361_1920"
 # おかず
 * [リクエスト給食1位の大豆の甘辛揚げ](https://cookpad.com/recipe/899663)  
 
+##焼きナス丼]
+[材料］（2人分）
+焼きなす　4本
+ごはん　適量
+だし　150ml
+しょうゆ　大さじ２
+みりん　大さじ２
+水溶きかたくり粉　適量
+［作り方］
+焼きなすを切らずに丸ごとご飯にのせ、濃い目のダシを水溶き片栗粉で まとめたあんをたっぷりかける
+
 # サラダ
 * [切り干し大根で激うまサラダ](https://cookpad.com/recipe/604848)  
 * [居酒屋さんで教わった大根サラダ♪](https://cookpad.com/recipe/84482)  
@@ -72,6 +83,7 @@ cover:  "/assets/olive-oil-1412361_1920"
 * [【ダッチオーブンレシピ】ホワイトチョコとベリーのスコーン](https://tg-uchi.jp/topics/3537)  
 * [なめらかプリン Creme Caramel ｜小麦粉だいすき](https://www.nicovideo.jp/watch/sm36503451)
 * [スタバ風チョコスコーン☆簡単少量レシピ](https://cookpad.com/recipe/1791602)
+* [簡単！黄金比率のふわふわホットケーキ](https://cookpad.com/recipe/2257208)
 
 {% comment %}
 「[GitHub Gist](https://gist.github.com/)」
