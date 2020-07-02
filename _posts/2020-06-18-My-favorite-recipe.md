@@ -22,7 +22,7 @@ cover:  "/assets/olive-oil-1412361_1920"
 {% endcomment %}
 
 # カレー
-* [特別な材料なし!市販ルーでおいしいカレー](https://cookpad.com/recipe/3931127)  
+* [ちょっとがんばる！おうちカレーの作り方【ポークカレー編】](https://tomatoman.jp/?p=8303)  
 
 # 麺料理
 ## 汁なし担々麺
@@ -61,7 +61,7 @@ cover:  "/assets/olive-oil-1412361_1920"
 # おかず
 * [リクエスト給食1位の大豆の甘辛揚げ](https://cookpad.com/recipe/899663)  
 
-##焼きナス丼]
+## 焼きナス丼
 [材料］（2人分）
 焼きなす　4本
 ごはん　適量
